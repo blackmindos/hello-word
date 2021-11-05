@@ -1,4 +1,4 @@
-ARG VERSION=alpine
+ARG VERSION=3.14
 FROM alpine:$VERSION
 ARG VERSION
 ENV MSG "Hello Wolrd !!"
